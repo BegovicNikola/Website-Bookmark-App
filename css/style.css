@@ -4,6 +4,14 @@ body {
   padding-bottom: 20px;
 }
 
+.well{
+  background-color: #ddd;
+  padding: 20px 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
